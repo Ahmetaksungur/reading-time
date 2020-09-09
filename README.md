@@ -1,5 +1,5 @@
 # readingTime.js
-Script showing the reading time of the articles to the user (showing them as seconds, minutes, hours, days)
+Calculate Reading Time for a Blog
 
 **[View the Demo on CodePen &rarr;](https://codepen.io/ahmetaksungur/pen/oNxqNpx)**
 

@@ -11,7 +11,7 @@ Compiled and production-ready code can be found in the `dist` directory.
 
 **Direct Download**
 
-You can [download the files directly from GitHub]().
+You can [download the files directly from GitHub](https://github.com/Ahmetaksungur/reading-time/archive/master.zip).
 
 ```html
 <script src="dist/readingTime.min.js"></script>

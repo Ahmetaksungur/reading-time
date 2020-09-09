@@ -1,0 +1,27 @@
+{
+    "name": "reading-time",
+    "version": "1.0.0",
+    "description": "Script showing the reading time of the articles to the user (showing them as seconds, minutes, hours, days).",
+    "main": "dist/readingTime.min.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Ahmetaksungur/reading-time.git"
+    },
+    "keywords": [
+      "readingTime",
+      "reading",
+      "blog"
+    ],
+    "author": {
+		"name": "Ahmet Aksungur",
+		"url": "http://ahmetaksungur.com"
+	},
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Ahmetaksungur/reading-time"
+    },
+    "homepage": "https://github.com/Ahmetaksungur/reading-time#readme"
+  }

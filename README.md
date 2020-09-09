@@ -1,7 +1,7 @@
 # readingTime.js
 Script showing the reading time of the articles to the user (showing them as seconds, minutes, hours, days)
 
-**[View the Demo on CodePen &rarr;]()**
+**[View the Demo on CodePen &rarr;](https://codepen.io/ahmetaksungur/pen/oNxqNpx)**
 
 ## Getting Started
 
@@ -19,8 +19,6 @@ You can [download the files directly from GitHub](https://github.com/Ahmetaksung
 
 **CDN**
 
-You can also use the [jsDelivr CDN](https://cdn.jsdelivr.net/gh/cferdinandi/bouncer/dist/). I recommend linking to a specific version number or version range to prevent major updates from breaking your site.
-
 ```html
 <script src="https://unpkg.com/aks-reading-time@1.0.0/dist/readingTime.min.js"></script>
 ```
@@ -30,8 +28,6 @@ You can also use the [jsDelivr CDN](https://cdn.jsdelivr.net/gh/cferdinandi/boun
 ```
 
 **NPM**
-
-You can also use NPM (or your favorite package manager).
 
 ```bash
 npm i aks-reading-time
@@ -66,9 +62,9 @@ const BlogReadingTime = new readingTime({
   speed: 1,
   // other options
   secondText: 'Sec Read', // default value "Sec Read"
-  minuteText: 'Sec Read', // default value "Min Read"
-  hourText: 'Sec Read', // default value "Hour Read"
-  dayText: 'Sec Read', // default value "Day Read"
+  minuteText: 'Min Read', // default value "Min Read"
+  hourText: 'Hour Read', // default value "Hour Read"
+  dayText: 'Day Read', // default value "Day Read"
 });
 ```
 

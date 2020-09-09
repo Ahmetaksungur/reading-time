@@ -111,4 +111,4 @@ var validate = new Bouncer('form', {
 
 ## License
 
-The code is available under the [MIT License](LICENSE.md).
+The code is available under the [MIT License](https://github.com/Ahmetaksungur/reading-time/blob/master/LICENSE).
